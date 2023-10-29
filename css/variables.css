@@ -1,0 +1,32 @@
+:root{
+    --primary:#3B545F;
+    --primary-light: #5A6C81;
+    --Primary-extra-light: #D2D8E0;
+    --primary-dark: #283C3D;
+    --secondary: #B696B4;
+    --secondary-dark: #84819F;
+    --secondary-light: #E6ADBE;
+    --secondary-extra-light: #F9EBF0;
+    --success: #428A6D;
+    --success-light:#E7F4D7;
+    --success-extra-light:#F3FAEB;
+    --success-dark:#2D625B;
+    --success-bright:#ACD772;
+    --gray-dark: #06090A;
+    --gray-green: #283C3D;
+    --gray-light: #5A5F62;
+    --gray-extra-light: #E2E3E3;
+    --white: #FFFFFF;
+    --yellow: #F9F871;
+    --green-gradient:linear-gradient(180deg, #2D625B 0%, #93B29F 54.62%, #F3FAEB 100%);
+    --purple-gradient:linear-gradient(180deg, #84819F 6.25%, #B597AE 55.73%, #FBE1EF 100%);
+    --font-size-h1: 6rem;
+    --font-size-h2: 3.75rem;
+    --font-size-h3: 3rem;
+    --font-size-h4: 2.125rem;
+    --font-size-h5: 1.5rem;
+    --font-size-h6: 1.25rem;
+    --font-size-body-small: 0.875rem;
+    --font-size-button: 0.875rem;
+
+}
